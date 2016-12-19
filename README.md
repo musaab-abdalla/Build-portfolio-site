@@ -1,5 +1,7 @@
 Build a Portfolio Site
 ======================
+Project in [Udacity](https://udacity.com) [Front-End Web Developer Nanodegree
+](https://classroom.udacity.com/nanodegrees/nd001)build beautiful, responsive websites optimized for mobile and desktop performance.
 
 ## Design
 
@@ -21,7 +23,7 @@ Provide at least one of the following customizations:
 * Customize placement of the elements on the page (grid layout) with `HTML`, `CSS` or both.
 * Customize `CSS` styles applied at minimum to paragraph and heading elements.
 
-### 4. Grid-Based Layout	
+### 4. Grid-Based Layout
 Page utilizes a grid-based layout with styles making use of the `flexbox` layout or a framework like `Bootstrap`, `Foundation`, etc.
 If you're using Bootstrap` or standard `HMTL/CSS`: the rows and columns of the grid must be wrapped in an element with a `container` class.
 
