@@ -1,7 +1,8 @@
-Build a Portfolio Site
-======================
+#Build a Portfolio Site
+
+###### Overview
 Project in [Udacity](https://udacity.com) [Front-End Web Developer Nanodegree
-](https://classroom.udacity.com/nanodegrees/nd001)build beautiful, responsive websites optimized for mobile and desktop performance.
+](https://classroom.udacity.com/nanodegrees/nd001). The task was to replicate a design mock-up in HTML and CSS and develop a responsive websites.
 
 ## Design
 
