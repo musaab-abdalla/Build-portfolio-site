@@ -2,8 +2,7 @@
 
 ######Overview
 
-Project in [Udacity](https://udacity.com) [Front-End Web Developer Nanodegree
-](https://classroom.udacity.com/nanodegrees/nd001). The task was to replicate a design mock-up in HTML and CSS and develop a responsive websites.
+Portfolio project as part of the [Udacity](https://udacity.com) [Front-End Web Developer Nanodegree](https://classroom.udacity.com/nanodegrees/nd001). The task was to replicate a design mock-up in HTML and CSS and develop a responsive websites. It is a simple one page portfolio featuring responsive design using the bootstrap framework.
 
 ##Getting Started
 
